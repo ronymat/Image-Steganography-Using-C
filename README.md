@@ -83,5 +83,3 @@ Encoding:
 Decoding:
 ./stego -d output.bmp extracted.txt
 
-
-If you want, I can now give you a **strong 3–4 line resume description** for this project to help in placements.
